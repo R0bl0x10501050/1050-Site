@@ -1,0 +1,668 @@
+.mediaViewInfo {
+		--web-view-name: Web 1920 – 1;
+		--web-view-id: Web_1920__1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Web_1920__1;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Web_1920__1 {
+		position: absolute;
+		width: 1920px;
+		height: 1080px;
+		background-color: rgba(251,251,251,1);
+		overflow: hidden;
+		--web-view-name: Web 1920 – 1;
+		--web-view-id: Web_1920__1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#Component_1__1 {
+		position: absolute;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_13 {
+		opacity: 0.5;
+		mix-blend-mode: normal;
+		position: absolute;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_1 {
+		position: absolute;
+		width: 94px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#ID1__12 {
+		left: 18px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(0,0,0,0.4);
+	}
+	#Rectangle_10 {
+		fill: rgba(105,180,255,0.18);
+		stroke: rgba(0,0,0,0);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_10 {
+		position: absolute;
+		overflow: visible;
+		width: 94px;
+		height: 1076px;
+		left: 0px;
+		top: 4px;
+	}
+	#Group_2 {
+		position: absolute;
+		width: 94px;
+		height: 1080px;
+		left: 166px;
+		top: 0px;
+		overflow: visible;
+	}
+	#ID2__12 {
+		left: 18px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(0,0,0,0.4);
+	}
+	#Rectangle_11 {
+		fill: rgba(152,235,255,0.2);
+		stroke: rgba(0,0,0,0);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_11 {
+		position: absolute;
+		overflow: visible;
+		width: 94px;
+		height: 1076px;
+		left: 0px;
+		top: 4px;
+	}
+	#Group_3 {
+		position: absolute;
+		width: 94px;
+		height: 1080px;
+		left: 332px;
+		top: 0px;
+		overflow: visible;
+	}
+	#ID3__12 {
+		left: 18px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(0,0,0,0.4);
+	}
+	#Rectangle_12 {
+		fill: rgba(105,180,255,0.18);
+		stroke: rgba(0,0,0,0);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_12 {
+		position: absolute;
+		overflow: visible;
+		width: 94px;
+		height: 1076px;
+		left: 0px;
+		top: 4px;
+	}
+	#Group_4 {
+		position: absolute;
+		width: 94px;
+		height: 1080px;
+		left: 498px;
+		top: 0px;
+		overflow: visible;
+	}
+	#ID4__12 {
+		left: 18px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(0,0,0,0.4);
+	}
+	#Rectangle_13 {
+		fill: rgba(152,235,255,0.2);
+		stroke: rgba(0,0,0,0);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_13 {
+		position: absolute;
+		overflow: visible;
+		width: 94px;
+		height: 1076px;
+		left: 0px;
+		top: 4px;
+	}
+	#Group_5 {
+		position: absolute;
+		width: 94px;
+		height: 1080px;
+		left: 664px;
+		top: 0px;
+		overflow: visible;
+	}
+	#ID5__12 {
+		left: 18px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(0,0,0,0.4);
+	}
+	#Rectangle_14 {
+		fill: rgba(105,180,255,0.18);
+		stroke: rgba(0,0,0,0);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_14 {
+		position: absolute;
+		overflow: visible;
+		width: 94px;
+		height: 1076px;
+		left: 0px;
+		top: 4px;
+	}
+	#Group_6 {
+		position: absolute;
+		width: 94px;
+		height: 1080px;
+		left: 830px;
+		top: 0px;
+		overflow: visible;
+	}
+	#ID6__12 {
+		left: 18px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(0,0,0,0.4);
+	}
+	#Rectangle_15 {
+		fill: rgba(152,235,255,0.2);
+		stroke: rgba(0,0,0,0);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_15 {
+		position: absolute;
+		overflow: visible;
+		width: 94px;
+		height: 1076px;
+		left: 0px;
+		top: 4px;
+	}
+	#Group_7 {
+		position: absolute;
+		width: 94px;
+		height: 1080px;
+		left: 996px;
+		top: 0px;
+		overflow: visible;
+	}
+	#ID7__12 {
+		left: 18px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(0,0,0,0.4);
+	}
+	#Rectangle_16 {
+		fill: rgba(105,180,255,0.18);
+		stroke: rgba(0,0,0,0);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_16 {
+		position: absolute;
+		overflow: visible;
+		width: 94px;
+		height: 1076px;
+		left: 0px;
+		top: 4px;
+	}
+	#Group_8 {
+		position: absolute;
+		width: 94px;
+		height: 1080px;
+		left: 1162px;
+		top: 0px;
+		overflow: visible;
+	}
+	#ID8__12 {
+		left: 18px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(0,0,0,0.4);
+	}
+	#Rectangle_17 {
+		fill: rgba(152,235,255,0.2);
+		stroke: rgba(0,0,0,0);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_17 {
+		position: absolute;
+		overflow: visible;
+		width: 94px;
+		height: 1076px;
+		left: 0px;
+		top: 4px;
+	}
+	#Group_9 {
+		position: absolute;
+		width: 94px;
+		height: 1080px;
+		left: 1328px;
+		top: 0px;
+		overflow: visible;
+	}
+	#ID9__12 {
+		left: 18px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(0,0,0,0.4);
+	}
+	#Rectangle_18 {
+		fill: rgba(105,180,255,0.18);
+		stroke: rgba(0,0,0,0);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_18 {
+		position: absolute;
+		overflow: visible;
+		width: 94px;
+		height: 1076px;
+		left: 0px;
+		top: 4px;
+	}
+	#Group_10 {
+		position: absolute;
+		width: 94px;
+		height: 1080px;
+		left: 1494px;
+		top: 0px;
+		overflow: visible;
+	}
+	#ID10__12 {
+		left: 12px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(0,0,0,0.4);
+	}
+	#Rectangle_19 {
+		fill: rgba(152,235,255,0.2);
+		stroke: rgba(0,0,0,0);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_19 {
+		position: absolute;
+		overflow: visible;
+		width: 94px;
+		height: 1076px;
+		left: 0px;
+		top: 4px;
+	}
+	#Group_11 {
+		position: absolute;
+		width: 94px;
+		height: 1080px;
+		left: 1660px;
+		top: 0px;
+		overflow: visible;
+	}
+	#ID11__12 {
+		left: 12.5px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 70px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(0,0,0,0.4);
+	}
+	#Rectangle_20 {
+		fill: rgba(105,180,255,0.18);
+		stroke: rgba(0,0,0,0);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_20 {
+		position: absolute;
+		overflow: visible;
+		width: 94px;
+		height: 1076px;
+		left: 0px;
+		top: 4px;
+	}
+	#Group_12 {
+		position: absolute;
+		width: 94px;
+		height: 1080px;
+		left: 1826px;
+		top: 0px;
+		overflow: visible;
+	}
+	#ID12__12 {
+		left: 12px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(0,0,0,0.4);
+	}
+	#Rectangle_21 {
+		fill: rgba(152,235,255,0.2);
+		stroke: rgba(0,0,0,0);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_21 {
+		position: absolute;
+		overflow: visible;
+		width: 94px;
+		height: 1076px;
+		left: 0px;
+		top: 4px;
+	}
+	#Rectangle_6 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_6 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.439));
+		position: absolute;
+		overflow: visible;
+		width: 507px;
+		height: 309px;
+		left: 1262px;
+		top: 294px;
+	}
+	#Rectangle_5 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_5 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.439));
+		position: absolute;
+		overflow: visible;
+		width: 507px;
+		height: 309px;
+		left: 716px;
+		top: 294px;
+	}
+	#Rectangle_4 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_4 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.439));
+		position: absolute;
+		overflow: visible;
+		width: 507px;
+		height: 309px;
+		left: 170px;
+		top: 294px;
+	}
+	#Rectangle_7 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_7 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.439));
+		position: absolute;
+		overflow: visible;
+		width: 507px;
+		height: 309px;
+		left: 170px;
+		top: 676px;
+	}
+	#Rectangle_8 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_8 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.439));
+		position: absolute;
+		overflow: visible;
+		width: 507px;
+		height: 309px;
+		left: 716px;
+		top: 676px;
+	}
+	#Rectangle_9 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_9 {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.439));
+		position: absolute;
+		overflow: visible;
+		width: 507px;
+		height: 309px;
+		left: 1262px;
+		top: 676px;
+	}
+	#SHOP {
+		left: 832px;
+		top: 68px;
+		position: absolute;
+		overflow: visible;
+		width: 257px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 100px;
+		color: rgba(112,112,112,1);
+	}
+	#Toggle {
+		position: absolute;
+		width: 102px;
+		height: 32px;
+		left: 1456px;
+		top: 135px;
+		overflow: visible;
+	}
+	#METADATA {
+		display: none;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: hidden;
+		width: 11px;
+		height: 10px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 3px;
+	}
+	#Base {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(62,62,62,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Base {
+		position: absolute;
+		overflow: visible;
+		width: 56px;
+		height: 32px;
+		left: 0px;
+		top: 0px;
+	}
+	#Handle {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(62,62,62,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Handle {
+		position: absolute;
+		overflow: visible;
+		width: 24px;
+		height: 24px;
+		left: 4px;
+		top: 4px;
+	}
+	#Label {
+		left: 72px;
+		top: 5px;
+		position: absolute;
+		overflow: visible;
+		width: 31px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Noto Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(61,61,61,1);
+	}

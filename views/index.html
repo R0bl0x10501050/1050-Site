@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Home - R0bl0x10501050</title>
+	<link rel="icon" href="/Images/PFP_4K.jpg" />
+	<link href="/index.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="index" oncontextmenu="return false;">
+	<script src="/script.js">
+
+	</script>
+
+	<div class="sticky">
+		<div class="header">
+			<img src='./Images/PFP_4K.jpg' id="pfp" height="75%">
+			<div id="title">
+				R0bl0x10501050
+			</div>
+			<div id="desc">
+				Game Developer
+			</div>
+			<div id="greetertext">
+				<% if (name !== null) { %>
+					Hello, <%= name %>!
+				<% } else { %>
+					Hello, Robloxian!
+				<% } %>
+			</div>
+			<div class="redir" id="redir_About">
+				<u>Coming Soon!</u>
+			</div>
+			<div class="redir" id="redir_Shop">
+				<u>Shop</u>
+			</div>
+		</div>
+	</div>
+
+	<br><br><br><br><br>
+
+	<div class="parallax-0"></div>
+	
+	<div class="info">
+		<div>
+			<p>
+				I am a dedicated programmer and GFX Designer on the Roblox platform, but a Bot Developer and a Web Developer elsewhere.
+			</p>
+		</div>
+	</div>
+
+	<div class="parallax-1"></div>
+
+	<div class="info">
+		<div class="caption" id="shopbutton">
+			Check Out The Shop!
+			<br>
+			<span class="button">
+				<p>Shop</p>
+			</span>
+			<br>
+		</div>
+		<br>
+	</div>
+
+	<div class="parallax-2"></div>
+
+	<div class="info">
+		<div class="caption" id="bottom">
+			<div class="contact">
+				Contact Me:<br> 
+				<b>Roblox:</b> R0bl0x10501050 via PMs<br>
+				<b>Roblox DevForum:</b> R0bl0x10501050 or RyloRiz via PMs<br>
+				<b>Discord:</b> R0bl0x10501050#9989 via DMs<br><br><br>
+				© Copyright R0bl0x10501050, 2021. All Rights Reserved.
+				None of the content on this page may be reproduced or taken without the owner's consent. 
+			</div>
+			<br><br>
+		</div>
+	</div>
+
+	<!-- Easter Egg #1 -->
+
+	<pre id='output' style="color:#fff;"></pre>
+
+	<script type="text/javascript">
+		var element = new Image
+        var devtoolsOpen = false
+        element.__defineGetter__("id", function() {
+           devtoolsOpen = true
+		   document.body.innerHTML = "No source for you! You found the easter egg #1. <p id='output'></p>"
+        })
+        setInterval(function() {
+			output.innerHTML = ""
+            devtoolsOpen = false
+            console.log(element)
+            document.getElementById('output').innerHTML +=(devtoolsOpen ? "dev tools is open\n" : "dev tools is closed\n")
+        }, 1000)
+	</script>
+
+	<!------------------->
+
+</body>
+
+</html>
